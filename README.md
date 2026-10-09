@@ -35,13 +35,13 @@ A Raspberry Pi Compute Module 4 (CM4)-based companion computer platform combinin
 ### Top View
 <p align="left">
   <img src="images/front.JPG" width="400" alt="3D Render - Top view" />
-  <img src="images/top_view_no_cm4.png" width="405" alt="After fabrication & Assembly" />
+  <img src="images/top_view_no_cm4.png" width="403" alt="After fabrication & Assembly" />
 </p>
 
 ### Bottom View
 <p align="left">
   <img src="images/back.JPG" width="400" alt="3D Render - Bottom view" />
-  <img src="images/bottom_view.png" width="418" alt="After fabrication & Assembly" />
+  <img src="images/bottom_view.png" width="420" alt="After fabrication & Assembly" />
 </p>
 
 ### Additional PCB Views
