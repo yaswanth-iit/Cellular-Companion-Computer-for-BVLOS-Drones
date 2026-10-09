@@ -28,25 +28,25 @@ A Raspberry Pi Compute Module 4 (CM4)-based companion computer platform combinin
 
 ### Top View
 <p align="left">
-  <img src="images/front.jpg" width="400" alt="3D Render - Top view" />
-  <img src="images/top_view_no_cm4.jpg" width="400" alt="After fabrication & Assembly" />
+  <img src="https://github.com/yaswanth-iit/Carrier-board-for-Raspberry-Pi-CM4/blob/main/images/front.jpg" width="400" alt="3D Render - Top view" />
+  <img src="https://github.com/yaswanth-iit/Carrier-board-for-Raspberry-Pi-CM4/blob/main/images/top_view_no_cm4.jpg" width="400" alt="After fabrication & Assembly" />
 </p>
 
 ### Bottom View
 <p align="left">
-  <img src="images/back.jpg" width="400" alt="3D Render - Bottom view" />
-  <img src="images/bottom_view.jpg" width="400" alt="After fabrication & Assembly" />
+  <img src="https://github.com/yaswanth-iit/Carrier-board-for-Raspberry-Pi-CM4/blob/main/images/back.jpg" width="400" alt="3D Render - Bottom view" />
+  <img src="https://github.com/yaswanth-iit/Carrier-board-for-Raspberry-Pi-CM4/blob/main/images/bottom_view.jpg" width="400" alt="After fabrication & Assembly" />
 </p>
 
 ### Additional PCB Views
 <p align="left">
-  <img src="images/top_view_with_cm4.jpg" width="400" alt="Top view with CM4" />
-  <img src="images/bottom_view_with_4g.jpg" width="400" alt="Bottom view with 4G modem" />
+  <img src="https://github.com/yaswanth-iit/Carrier-board-for-Raspberry-Pi-CM4/blob/main/images/top_view_with_cm4.jpg" width="400" alt="Top view with CM4" />
+  <img src="https://github.com/yaswanth-iit/Carrier-board-for-Raspberry-Pi-CM4/blob/main/images/bottom_view_with_4g.jpg" width="400" alt="Bottom view with 4G modem" />
 </p>
 
 ### PCB Panel
 <p align="left">
-  <img src="images/top_panel_view.jpg" width="800" alt="PCB panel of 4G, 5G carrier boards" />
+  <img src="https://github.com/yaswanth-iit/Carrier-board-for-Raspberry-Pi-CM4/blob/main/images/top_panel_view.jpg" width="800" alt="PCB panel of 4G, 5G carrier boards" />
 </p>
 
 ## Applications
