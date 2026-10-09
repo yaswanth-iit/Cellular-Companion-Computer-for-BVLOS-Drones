@@ -24,6 +24,12 @@ A Raspberry Pi Compute Module 4 (CM4)-based companion computer platform combinin
 - **Secure Remote Access:** VPN connectivity using Tailscale, including access through carrier-grade NAT (CGNAT).
 - **Reliable Operation:** Embedded Linux services with automatic startup, restart, logging, and fault recovery.
 
+## Applications
+- Cellular-connected UAVs and BVLOS communication.
+- Remote flight telemetry and drone monitoring.
+- Live video streaming over LTE networks.
+- Remote diagnostics and companion-computer management.
+
 ## PCB Images
 
 ### Top View
@@ -35,7 +41,7 @@ A Raspberry Pi Compute Module 4 (CM4)-based companion computer platform combinin
 ### Bottom View
 <p align="left">
   <img src="images/back.JPG" width="400" alt="3D Render - Bottom view" />
-  <img src="images/bottom_view.png" width="400" alt="After fabrication & Assembly" />
+  <img src="images/bottom_view.png" width="450" alt="After fabrication & Assembly" />
 </p>
 
 ### Additional PCB Views
@@ -49,8 +55,4 @@ A Raspberry Pi Compute Module 4 (CM4)-based companion computer platform combinin
   <img src="images/top_panel_view.png" width="800" alt="PCB panel of 4G, 5G carrier boards" />
 </p>
 
-## Applications
-- Cellular-connected UAVs and BVLOS communication.
-- Remote flight telemetry and drone monitoring.
-- Live video streaming over LTE networks.
-- Remote diagnostics and companion-computer management.
+
