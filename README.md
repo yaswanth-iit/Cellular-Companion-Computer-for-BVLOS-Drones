@@ -44,7 +44,7 @@ A Raspberry Pi Compute Module 4 (CM4)-based companion computer platform combinin
   <img src="images/bottom_view.png" width="420" alt="After fabrication & Assembly" />
 </p>
 
-### Additional PCB Views
+### With Raspberry Pi CM4 & 4G modem connected 
 <p align="left">
   <img src="images/top_view_with_cm4.png" width="400" alt="Top view with CM4" />
   <img src="images/bottom_view_with_4g.png" width="400" alt="Bottom view with 4G modem" />
