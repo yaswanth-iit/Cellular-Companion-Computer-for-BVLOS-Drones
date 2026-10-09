@@ -1,4 +1,4 @@
-# Cellular-Enabled Companion Computer for BVLOS Drones
+# Cellular-Enabled Companion Computer for Beyond Visual Line of Sight (BVLOS) Drones
 
 A Raspberry Pi Compute Module 4 (CM4)-based companion computer platform combining custom carrier-board hardware with an embedded Linux communication stack for cellular-connected UAVs, remote telemetry, and live video streaming.
 
